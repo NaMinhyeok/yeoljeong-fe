@@ -1,9 +1,10 @@
 import './App.css'
+import KakaoLoginButton from "./component/KakaoLoginButton.tsx";
 
 function App() {
     return (
         <>
-            <p>hello world</p>
+            <KakaoLoginButton/>
         </>
     )
 }
